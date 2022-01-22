@@ -1,3 +1,3 @@
--Projeto escolar 
--Desenvolvido em um grupo de 5 pessoas
--Um jogo educativo sobre coleta de lixo
+- Projeto escolar 
+- Desenvolvido em um grupo de 5 pessoas
+- Um jogo educativo sobre coleta de lixo
