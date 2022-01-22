@@ -1,1 +1,3 @@
-# -AP1-C-digos-de-limpeza-do-mundo
+-Projeto escolar 
+-Desenvolvido em um grupo de 5 pessoas
+-Um jogo educativo sobre coleta de lixo
